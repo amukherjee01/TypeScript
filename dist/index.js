@@ -1,0 +1,20 @@
+"use strict";
+let sales = 1004304032234;
+let course = "TypeScript";
+let isPublished = true;
+let ratings = 5;
+let value;
+value = 1;
+value = "stringtype";
+let array = [12, 34, 90];
+let array1 = ["hello", "world"];
+let tuple = [21, "hello"];
+let mySize = 2;
+console.log(mySize);
+let user = { name: "aditya", age: 29 };
+console.log(user.name);
+console.log(user.email);
+let message = "hello how are you";
+let msg = message.slice(2, 5);
+console.log(msg);
+//# sourceMappingURL=index.js.map
